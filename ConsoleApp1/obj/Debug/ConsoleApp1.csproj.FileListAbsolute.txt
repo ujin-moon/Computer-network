@@ -1,0 +1,7 @@
+D:\Учеба\4 курс\Компьютерные сети\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Учеба\4 курс\Компьютерные сети\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Учеба\4 курс\Компьютерные сети\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Учеба\4 курс\Компьютерные сети\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Учеба\4 курс\Компьютерные сети\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\Компьютерные сети\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Учеба\4 курс\Компьютерные сети\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

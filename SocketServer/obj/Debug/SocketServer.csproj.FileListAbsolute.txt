@@ -1,0 +1,7 @@
+D:\Учеба\4 курс\Компьютерные сети\SocketServer\bin\Debug\SocketServer.exe.config
+D:\Учеба\4 курс\Компьютерные сети\SocketServer\bin\Debug\SocketServer.exe
+D:\Учеба\4 курс\Компьютерные сети\SocketServer\bin\Debug\SocketServer.pdb
+D:\Учеба\4 курс\Компьютерные сети\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\Компьютерные сети\SocketServer\obj\Debug\SocketServer.exe
+D:\Учеба\4 курс\Компьютерные сети\SocketServer\obj\Debug\SocketServer.pdb
+D:\Учеба\4 курс\Компьютерные сети\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
