@@ -39,12 +39,9 @@ namespace SocketServer
                     int bytesRec = handler.Receive(bytes);
                     IPAddress lol;
                     data += Encoding.UTF8.GetString(bytes, 0, bytesRec);
-                    if (IPAddress.TryParse(data, out lol) == true)
-                    {
-                        // Показываем данные на консоли
-                        Console.Write("Полученный текст: " + data + "\n\n");
-                    }
-
+                    
+                    // Показываем данные на консоли
+                    Console.Write("Полученный текст: " + data + "\n\n");
 
 
                     // Отправляем ответ клиенту\
