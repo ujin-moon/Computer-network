@@ -3,9 +3,11 @@ using System;
 using System.Text;
 using System.Net;
 using System.Net.Sockets;
+using System.Threading;
 
 namespace SocketServer
 {
+    public delegate void ThreadStart();
     class Program
     {
         static void Main(string[] args)
@@ -37,14 +39,11 @@ namespace SocketServer
 
                     byte[] bytes = new byte[1024];
                     int bytesRec = handler.Receive(bytes);
-                    IPAddress lol;
+                    
                     data += Encoding.UTF8.GetString(bytes, 0, bytesRec);
-                    if (IPAddress.TryParse(data, out lol) == true)
-                    {
-                        // Показываем данные на консоли
-                        Console.Write("Полученный текст: " + data + "\n\n");
-                    }
-
+                    
+                    // Показываем данные на консоли 
+                    Thread myThread3 = new Thread(() => Console.WriteLine("Полученный текст: " + data + "\n\n"));
 
 
                     // Отправляем ответ клиенту\
