@@ -1,0 +1,15 @@
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\bin\Debug\net7.0\ServerMultiThreads.exe
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\bin\Debug\net7.0\ServerMultiThreads.deps.json
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\bin\Debug\net7.0\ServerMultiThreads.runtimeconfig.json
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\bin\Debug\net7.0\ServerMultiThreads.dll
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\bin\Debug\net7.0\ServerMultiThreads.pdb
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\ServerMultiThreads.csproj.AssemblyReference.cache
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\ServerMultiThreads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\ServerMultiThreads.AssemblyInfoInputs.cache
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\ServerMultiThreads.AssemblyInfo.cs
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\ServerMultiThreads.csproj.CoreCompileInputs.cache
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\ServerMultiThreads.dll
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\refint\ServerMultiThreads.dll
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\ServerMultiThreads.pdb
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\ServerMultiThreads.genruntimeconfig.cache
+D:\Users\k1ll2a\source\repos\ServerMultiThreads\ServerMultiThreads\obj\Debug\net7.0\ref\ServerMultiThreads.dll
